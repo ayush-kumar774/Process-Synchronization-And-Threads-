@@ -1,5 +1,6 @@
 # Process-Synchronization-And-Threads-
 QUESTIONS
+
 a) Write a program to implement Peterson’s solution for Critical
 Section problem.
 
