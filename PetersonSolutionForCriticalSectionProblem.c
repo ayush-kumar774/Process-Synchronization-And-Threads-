@@ -13,7 +13,6 @@ int main()
 	int n ;
 	int counter ;
 	int process[2];
-	printf("We are taking two process for Critical Section Problem!\n");
 	for(int i= 0 ; i <= 1; i++)
 	{
 		printf("Please enter %d process number ",i+1);
